@@ -1,4 +1,4 @@
-#ogfn launcher
+ogfn launcher
 
 bun install
 
