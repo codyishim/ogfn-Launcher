@@ -1,4 +1,4 @@
-b4 doing anything
+#ogfn launcher
 
 bun install
 
@@ -9,4 +9,4 @@ for building to public
 bun tauri build
 
 go to src-tauri/target/release/bundle/msi and you should find the installer there!!!@
-# ogfn-Launcher
+
